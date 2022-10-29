@@ -1,0 +1,22 @@
+.header {
+    background: #202024;
+    border-bottom: 1px solid var(--gray-600);
+
+    display: flex;
+    justify-content: center;
+    align-itens: center;
+
+    padding: 1.25rem 0;
+
+    font-weight: 700;
+    line-height: 2rem;
+    font-size: 1.625rem;
+
+    
+}
+
+.header img {
+    height: 2rem;
+    width: 2.125rem;
+    margin-right: 1rem;
+}
